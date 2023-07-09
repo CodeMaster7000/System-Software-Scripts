@@ -1,7 +1,7 @@
 import psutil
 
 def get_cpu_temperature():
-    temperature = psutil.sensors_temperatures().get('coretemp', [])
+    temperature = psutil.sensors_temperatures().get('coretemp', []) # You may need to modify this if your system uses a different name. 
     if temperature:
         return temperature[0].current
     else:
