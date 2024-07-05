@@ -2,7 +2,7 @@
 
 ## About
 
-A set of useful programs to retrieve your CPU's speed and temperature. Be careful not to overload it!
+A set of useful programs to retrieve your CPU's speed & temperature, and menory usage. Be careful not to overload it!
 
 ## Prerequisites
 
